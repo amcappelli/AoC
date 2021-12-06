@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# AoC
+puzzle.txt
+input.txt
+input-test.txt
+input
+.cookie
+setup.cfg
